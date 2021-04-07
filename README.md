@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kamil
+- 👀 I’m interested in DevOps, Turntablism
+- 🌱 I’m currently learning Python, Oracle DB,
